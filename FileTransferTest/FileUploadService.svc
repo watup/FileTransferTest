@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="FileTransferTest.Wcf.FileUploadService" CodeBehind="FileUploadService.svc.cs" %>

@@ -1,0 +1,9 @@
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\bin\Debug\FileTransferTest.Forms.exe.config
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\bin\Debug\FileTransferTest.Forms.exe
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\bin\Debug\FileTransferTest.Forms.pdb
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\obj\Debug\FileTransferTest.Forms.csprojResolveAssemblyReference.cache
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\obj\Debug\FileTransferTest.Forms.frmMain.resources
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\obj\Debug\FileTransferTest.Forms.Properties.Resources.resources
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\obj\Debug\FileTransferTest.Forms.csproj.GenerateResource.Cache
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\obj\Debug\FileTransferTest.Forms.exe
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest.Forms\obj\Debug\FileTransferTest.Forms.pdb

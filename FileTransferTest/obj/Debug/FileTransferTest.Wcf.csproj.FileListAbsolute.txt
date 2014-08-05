@@ -1,0 +1,5 @@
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\bin\FileTransferTest.Wcf.dll
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\bin\FileTransferTest.Wcf.pdb
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\obj\Debug\FileTransferTest.Wcf.dll
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\obj\Debug\FileTransferTest.Wcf.pdb
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\obj\Debug\FileTransferTest.Wcf.csprojResolveAssemblyReference.cache

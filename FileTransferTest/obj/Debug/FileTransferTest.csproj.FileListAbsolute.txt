@@ -1,0 +1,5 @@
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\bin\FileTransferTest.dll
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\bin\FileTransferTest.pdb
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\obj\Debug\FileTransferTest.csprojResolveAssemblyReference.cache
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\obj\Debug\FileTransferTest.dll
+D:\KelvinPerrie\Source\FileTransferTest\FileTransferTest\obj\Debug\FileTransferTest.pdb
